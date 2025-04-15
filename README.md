@@ -33,9 +33,10 @@ Here are some featured projects from my portfolio:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Edutech Platform Scholar** | A short description of Project 1. | HTML, CSS, JavaScript |
-| **Project 2** | A short description of Project 2. | PHP, MySQL |
-| **Project 3** | A short description of Project 3. | React, Node.js |
+| **Edutech Platform Scholar 1** | An innovative educational platform for Tertiary Institutions Students 1. | HTML, CSS, JavaScript, PHP and SQL |
+| **Edutech Platform 300plus 2** | A comprehensive learning management system for SSCE, JAMB, WAEC, NECO, and the likes 2. | HTML, CSS, JavaScript, PHP and SQL |
+| **CBT System 3** | A comprehensive Computer-Based Testing platform for educational institutions 3. | HTML, CSS, JavaScript, PHP and SQL |
+| **E-Learning Mobile App 4** | A comprehensive mobile learning platform with interactive courses and real-time progress tracking 4. | Node.js, React.js, React Native and MongoDB |
 
 > 🔗 You can check more projects in the `Projects` folder or on my [website](#).
 
@@ -45,13 +46,13 @@ Here are some featured projects from my portfolio:
 
 Feel free to reach out if you'd like to collaborate, have a project in mind, or just want to connect:
 
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🐦 Twitter: [@yourhandle](#)  
-- 🌐 Portfolio Website: [yourwebsite.com](#)
+- 📧 Email: olalekanadeniyi081@gmial.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/adeniyi-olalekan-60a229293](#)  
+- 🐦 FaceBook: [https://www.facebook.com/adeniyi.olamilekan.756/](#)  
+- 🌐 Portfolio Website: [https://adeniyiolalekanportfolio.vercel.app/](#)
 
 ---
 
 ## 📌 Note
 
-This portfolio is always evolving as I continue learning and building. Stay tuned for updates!
+This portfolio is always evolving as I continue learning and building. Stay tuned for updates!!!
