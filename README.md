@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm passionate about building digital solutions that so
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **[ADENIYI OLALEKAN MATTHEW]**, a multi-skilled professional with experience in:
+Hi! I'm **ADENIYI OLALEKAN MATTHEW**, a multi-skilled professional with experience in:
 
 - ⚡ Electrical and Electronic Repairs  
 - 🌐 Website Design & Development
@@ -14,7 +14,7 @@ Hi! I'm **[ADENIYI OLALEKAN MATTHEW]**, a multi-skilled professional with experi
 - 🛠️ Tech Solutions & Automation  
 - 📈 Digital Marketing & Strategy  
 
-I enjoy creating efficient, user-friendly solutions — whether it’s coding a responsive website, fixing electronic devices, or automating workflows with AI.
+I enjoy creating efficient, user-friendly solutions whether it’s coding a responsive website, fixing electronic devices, or automating workflows with AI.
 
 **Roles:** Full Stack Developer • Mobile Developer • Machine Learning Enthusiast
 
@@ -77,6 +77,12 @@ Here are some featured projects from my portfolio:
 | **Multi‑API User‑Friendly Web App** | A modern web application that consumes and integrates multiple APIs into a clean, user‑friendly dashboard. | Next.js, JavaScript/TypeScript, REST APIs |
 
 > 🔗 You can check more projects in the `Projects` folder or on my [website](https://adeniyiolalekanportfolio.vercel.app/).
+
+### 🔒 Private GitHub Projects
+
+Some of my projects (including production-grade client work and experimental systems) are kept **private on GitHub**.  
+This is mainly to **respect client confidentiality**, protect **proprietary business logic and data**, and keep **in‑progress or research projects** away from public exposure until they are fully ready.  
+If you're interested in a specific type of project, I’m happy to **walk you through the implementation details during an interview or via a private demo**.
 
 ---
 
